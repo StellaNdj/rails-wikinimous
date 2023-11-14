@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-size: 14px;
+   line-height: 1.428571429;
+   color: #333333;
+  }
+
+.navbar-style {
+    margin-right: 15px;
+    margin-left: 15px;
+    text-decoration: none;
+  }
+
+li {
+  text-decoration: none;
+}
